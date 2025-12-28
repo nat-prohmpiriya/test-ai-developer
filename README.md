@@ -102,7 +102,7 @@ User Input → Memory Manager → Gemini API → Response
 
 ---
 
-## Problem 3 (Bonus): LangChain + SQLite
+## Problem 3 : LangChain + SQLite
 
 **File:** `04-chatbot-langchain-sqlite.ipynb`
 
@@ -140,8 +140,7 @@ test-ai-developer/
 ├── README.md                         # This file
 ├── 01-web-scraping.ipynb            # Problem 1
 ├── 02-sentiment-analysis.ipynb      # Problem 2
-├── 03-chatbot-with-memory.ipynb     # Problem 3
-├── 04-chatbot-langchain-sqlite.ipynb # Problem 3 (Bonus)
+├── 03-chatbot-langchain-sqlite.ipynb # Problem 3
 ├── clinic_listings_yellowpages.csv  # Output from Problem 1
 ├── confusion_matrix_sentiment.png   # Output from Problem 2
 └── chat_memory.db                   # SQLite DB (created at runtime)
